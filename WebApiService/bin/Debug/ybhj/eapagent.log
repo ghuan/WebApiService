@@ -1,0 +1,24 @@
+2014-01-11 14:47:23==>INFORMATION: ****************************************************************
+2014-01-11 14:47:23==>INFORMATION: eapagent.dll开始初始化：
+2014-01-11 14:47:23==>INFORMATION: eapagent.dll初始化成功！
+
+2014-01-11 14:47:23==>DEBUG: ----------------------------------------------------------------------
+2014-01-11 14:47:23==>DEBUG: 远程请求==>default：开始
+2014-01-11 14:47:23==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=00FF3E76C7B8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2014-01-11 14:47:23==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=00FF3E76C7B8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2014-01-11 14:47:23==>DEBUG: 远程请求编码格式==>UTF-8
+2014-01-11 14:47:24==>DEBUG: 请求服务端出错 ：A connection with the server could not be established
+
+HOST:172.16.69.12
+2014-01-11 14:47:34==>DEBUG: ----------------------------------------------------------------------
+2014-01-11 14:47:34==>DEBUG: 远程请求==>default：开始
+2014-01-11 14:47:34==>DEBUG: INPUT FROM CLIENT = 
+method=siInterface&dllParam=00FF3E76C7B8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2014-01-11 14:47:34==>DEBUG: INPUT FROM CLIENT TRANSFORM to UTF-8 = 
+method=siInterface&dllParam=00FF3E76C7B8||||||&dllparm=&eap_password=&eap_username=&inputData=9130^^^^^^1005||||^268669616^
+2014-01-11 14:47:34==>DEBUG: 远程请求编码格式==>UTF-8
+2014-01-11 14:47:35==>DEBUG: 请求服务端出错 ：A connection with the server could not be established
+
+HOST:172.16.69.12
