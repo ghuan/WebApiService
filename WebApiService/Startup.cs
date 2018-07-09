@@ -16,6 +16,7 @@ namespace OwinSelfhostSample
         {
             // Configure Web API for self-host. 
             HttpConfiguration config = new HttpConfiguration();
+            appBuilder.UseCors(Microsoft.Owin.Cors.CorsOptions.AllowAll);
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",

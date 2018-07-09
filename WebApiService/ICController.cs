@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Net.Http;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,20 +20,37 @@ namespace OwinSelfhostSample
 
         // GET api/values/5 
         [HttpGet]
-        public string ReadCard()
+        public HttpResponseMessage ReadCard(int TransNum,string DataIn)
         {
-            char[] dataOut = new char[20000];
-            int a = ICC_Transaction(1111, "123456", dataOut);
-            string b = new string(dataOut);
-            string c = b.Replace("\0", "");
-            if (a == 0)
+            HttpResponseMessage responseMessage = new HttpResponseMessage();
+            try {
+                char[] dataOut = new char[20000];
+                int a = ICC_Transaction(TransNum, DataIn, dataOut);
+                string b = new string(dataOut);
+                string c = b.Replace("\0", "");
+
+                if (a == 0)
+                {
+                    responseMessage.Content = new StringContent(c, Encoding.GetEncoding("UTF-8"), "text/plain");
+                }
+                else
+                {
+                    responseMessage.Content = new StringContent(a + "|" + c, Encoding.GetEncoding("UTF-8"), "text/plain");
+                }
+               
+            } catch (Exception ex)
             {
-                return c;
+                FileStream fs = new FileStream("d:\\ak.txt", FileMode.Create);
+                //获得字节数组
+                byte[] data = System.Text.Encoding.Default.GetBytes(ex.Message);
+                //开始写入
+                fs.Write(data, 0, data.Length);
+                //清空缓冲区、关闭流
+                fs.Flush();
+                fs.Close();
             }
-            else {
-                return a+"|" + c;
-            }
-            
+
+            return responseMessage;
         }
        
     }

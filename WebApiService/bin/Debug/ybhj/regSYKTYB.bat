@@ -1,1 +1,0 @@
-regsvr32 "C:\Program Files\Mozilla Firefox\BargaingApplyV3_01050.ocx"

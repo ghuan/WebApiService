@@ -706,3 +706,243 @@ System.ComponentModel.Win32Exception: 指定的服务未安装。
 正在从系统中移除服务 WebApiService...
 已成功地从系统中移除服务 WebApiService。
 尝试停止服务 WebApiService。
+正在安装程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在安装服务 WebApiService...
+已成功安装服务 WebApiService。
+正在日志 Application 中创建 EventLog 源 WebApiService...
+正在提交程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在卸载程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在移除 EventLog 源 WebApiService。
+正在从系统中移除服务 WebApiService...
+已成功地从系统中移除服务 WebApiService。
+尝试停止服务 WebApiService。
+正在安装程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在安装服务 WebApiService...
+已成功安装服务 WebApiService。
+正在日志 Application 中创建 EventLog 源 WebApiService...
+正在提交程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在卸载程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在移除 EventLog 源 WebApiService。
+正在从系统中移除服务 WebApiService...
+已成功地从系统中移除服务 WebApiService。
+尝试停止服务 WebApiService。
+正在安装程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在安装服务 WebApiService...
+已成功安装服务 WebApiService。
+正在日志 Application 中创建 EventLog 源 WebApiService...
+正在提交程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在卸载程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在移除 EventLog 源 WebApiService。
+正在从系统中移除服务 WebApiService...
+已成功地从系统中移除服务 WebApiService。
+尝试停止服务 WebApiService。
+正在安装程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在安装服务 WebApiService...
+已成功安装服务 WebApiService。
+正在日志 Application 中创建 EventLog 源 WebApiService...
+正在提交程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在卸载程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在移除 EventLog 源 WebApiService。
+正在从系统中移除服务 WebApiService...
+已成功地从系统中移除服务 WebApiService。
+尝试停止服务 WebApiService。
+正在安装程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在安装服务 WebApiService...
+已成功安装服务 WebApiService。
+正在日志 Application 中创建 EventLog 源 WebApiService...
+正在提交程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在卸载程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在移除 EventLog 源 WebApiService。
+正在从系统中移除服务 WebApiService...
+已成功地从系统中移除服务 WebApiService。
+尝试停止服务 WebApiService。
+正在安装程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在安装服务 WebApiService...
+已成功安装服务 WebApiService。
+正在日志 Application 中创建 EventLog 源 WebApiService...
+正在提交程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在卸载程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在移除 EventLog 源 WebApiService。
+正在从系统中移除服务 WebApiService...
+已成功地从系统中移除服务 WebApiService。
+尝试停止服务 WebApiService。
+正在安装程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在安装服务 WebApiService...
+已成功安装服务 WebApiService。
+正在日志 Application 中创建 EventLog 源 WebApiService...
+正在提交程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在卸载程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在移除 EventLog 源 WebApiService。
+正在从系统中移除服务 WebApiService...
+已成功地从系统中移除服务 WebApiService。
+尝试停止服务 WebApiService。
+正在安装程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在安装服务 WebApiService...
+已成功安装服务 WebApiService。
+正在日志 Application 中创建 EventLog 源 WebApiService...
+正在提交程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在卸载程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在移除 EventLog 源 WebApiService。
+正在从系统中移除服务 WebApiService...
+已成功地从系统中移除服务 WebApiService。
+尝试停止服务 WebApiService。
+正在安装程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在安装服务 WebApiService...
+已成功安装服务 WebApiService。
+正在日志 Application 中创建 EventLog 源 WebApiService...
+正在提交程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在卸载程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在移除 EventLog 源 WebApiService。
+正在从系统中移除服务 WebApiService...
+已成功地从系统中移除服务 WebApiService。
+尝试停止服务 WebApiService。
+正在安装程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在安装服务 WebApiService...
+已成功安装服务 WebApiService。
+正在日志 Application 中创建 EventLog 源 WebApiService...
+正在提交程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在卸载程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在移除 EventLog 源 WebApiService。
+正在从系统中移除服务 WebApiService...
+已成功地从系统中移除服务 WebApiService。
+正在安装程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在安装服务 WebApiService...
+已成功安装服务 WebApiService。
+正在日志 Application 中创建 EventLog 源 WebApiService...
+正在提交程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在卸载程序集“D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.InstallLog
+   assemblypath = D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\WebApiService.exe
+正在移除 EventLog 源 WebApiService。
+正在从系统中移除服务 WebApiService...
+已成功地从系统中移除服务 WebApiService。

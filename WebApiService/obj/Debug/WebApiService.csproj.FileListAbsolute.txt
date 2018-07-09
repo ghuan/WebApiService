@@ -22,3 +22,7 @@ D:\Workspaces\c#\WebApiService\WebApiService\obj\Debug\WebApiService.csproj.Core
 D:\Workspaces\c#\WebApiService\WebApiService\obj\Debug\WebApiService.csproj.CopyComplete
 D:\Workspaces\c#\WebApiService\WebApiService\obj\Debug\WebApiService.exe
 D:\Workspaces\c#\WebApiService\WebApiService\obj\Debug\WebApiService.pdb
+D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\Microsoft.Owin.Cors.dll
+D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\System.Web.Cors.dll
+D:\Workspaces\c#\WebApiService\WebApiService\bin\Debug\Microsoft.Owin.Cors.xml
+D:\Workspaces\c#\WebApiService\WebApiService\obj\Debug\WebApiService.csprojAssemblyReference.cache
